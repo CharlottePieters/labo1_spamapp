@@ -4,11 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Labo1SpamappApplication {
+public class SpamApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Labo1SpamappApplication.class, args);
+		SpringApplication.run(SpamApplication.class, args);
 	}
 
 }
-//dazdazdazdaz

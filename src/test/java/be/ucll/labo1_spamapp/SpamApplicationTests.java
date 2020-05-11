@@ -1,13 +1,13 @@
-package com.example.labo1_spamapp;
+package be.ucll.labo1_spamapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Labo1SpamappApplicationTests {
+class SpamApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }
